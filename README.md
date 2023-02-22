@@ -3,7 +3,7 @@
 ### Test Automation | Consistent Learner | Problem Solver | ECM Developer | Superhero for my Kid 😊
 ### 7+ years of experience (Quality Assurance) in Software industry predominantly working on delivering Test Automation solutions relevant to Frontend and Backend systems. Ability to Manage the Automation projects from various phases such as Planning, Designing, Maintenance and Migration.
 
-<b>Test Automation Lead looking for new opportunities.</b>
+<b>Test Automation Lead looking for new opportunities (Chennai / Remote).</b>
 
 
 - 🌱 I’m currently learning new tools and technologies on my core testing skills. Recent interests on Playwright with JS
