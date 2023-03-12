@@ -13,12 +13,12 @@
 - 🎩 I am capable of wearing different hats as a T shaped engineer.
 - 💬 Ask me about Test Engineering, Test Automation, Test Framework Development, Test Case and Test Data Enumeration, Problem Solving. 
 - 😄 Pronouns: He / Him 
-- ⚡ Fun fact: loves to watch movies , loves to baby sit, Trying to get a good sleep :wink:  
+- ⚡ Fun fact: loves to watch movies , Trying to get a good sleep :wink:  
 
 
 ### Technologies & Tools
 
-✔ Frond-End-Automation(UI)  - Selenium Webdriver<br>
+✔ Front-End-Automation(UI)  - Selenium Webdriver<br>
 ✔ Back-End-Automation(API)  - WebServices Automation with Postman/SOAP UI, RestAssured.<br>
 ✔ Programming Languages     - Java.<br>
 ✔ Dev-OPS-Automation        - Jenkins, Azure Pipelines<br>
