@@ -1,12 +1,12 @@
 
 ### Hello Folks 👋, Welcome! I am Nagarjuna SK. Take a tour of my GitHub Profile.
 ### Test Automation Lead | Consistent Learner | Problem Solver | ECM Developer | Family Man 😊
-### 7+ years of experience (Quality Assurance) in Software industry predominantly working on delivering Test Automation solutions relevant to Frontend and Backend systems. Ability to Manage the Automation projects from various phases such as Planning, Designing, Maintenance and Migration.
+### 8 years of experience (Quality Assurance) in Software industry predominantly working on delivering Test Automation solutions relevant to Frontend and Backend systems. Ability to Manage the Automation projects from various phases such as Planning, Designing, Maintenance and Migration.
 
 <b>Test Automation Lead looking for new opportunities (Chennai / Remote).</b>
 
-
-- 🌱 I’m currently learning new tools and technologies on my core testing skills. Recent interests on Playwright with JS
+- 🌱 Loves to work with diverse peoples and has the ability to gain deep context of business rapidly to deliver and enhance the application stability.
+- 🌱 I’m currently learning new tools and technologies on my core testing skills and have good proficiency with E2E & API automation. Recent interests on Playwright with JS/TS
 - 🔭 I’m currently working on broadening my understanding on Web Development (Front/Back End) with its Architecuture, DevOps
 - 🤔 I’m looking for help with landing on a product, captive & challenging organizations.
 - 🧑‍💻I can help team and organizations to deliver quality products for the customers at an Agile environment.
@@ -30,7 +30,7 @@
 ✔ Others                    - Basic SQL commands, Design Patterns, Agile Methodology, .<br>
 
 
-### Reach me at,<a href="https://www.linkedin.com/in/nagarjuna-sk-80214b169/" rel="nofollow noreferrer">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> &nbsp;
+### Reach me at,<a href="https://www.linkedin.com/in/nagarjunask" rel="nofollow noreferrer">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> &nbsp;
    
 
 
