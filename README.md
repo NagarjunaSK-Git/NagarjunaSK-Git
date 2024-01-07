@@ -5,29 +5,31 @@
 
 <b>Test Automation Lead looking for new opportunities (Chennai / Remote).</b>
 
-- 🌱 Loves to work with diverse peoples and has the ability to gain deep context of business rapidly to deliver and enhance the application stability.
-- 🌱 I’m currently learning new tools and technologies on my core testing skills and have good proficiency with E2E & API automation. Recent interests on Playwright with JS/TS
-- 🔭 I’m currently working on broadening my understanding on Web Development (Front/Back End) with its Architecuture, DevOps
-- 🤔 I’m looking for help with landing on a product, captive & challenging organizations.
-- 🧑‍💻I can help team and organizations to deliver quality products for the customers at an Agile environment.
-- 🎩 I am capable of wearing different hats as a T shaped engineer.
-- 💬 Ask me about Test Engineering, Test Automation, Test Framework Development, Test Case and Test Data Enumeration, Problem Solving. 
+- 🤔 Actively seeking opportunities to contribute to dynamic and challenging organizations, with a focus on product development and innovation.
+- 🌱 Enjoys collaborating with diverse teams and excels in rapidly understanding business contexts to deliver and improve application stability.
+- 🌱 Actively expanding my expertise by acquiring new tools and technologies to complement my core testing skills. Proficient in end-to-end (E2E) and API automation, with a recent focus on Playwright with JS/TS and exploration of non-functional aspects.
+- 🔭 Concentrating on improving my knowledge in Web Development, encompassing both Front-End and Back-End, along with a focus on architecture and DevOps.
+- 🧑‍💻I can help team and organizations to enhance processes, improve quality, and addressing key IT challenges within Agile environments for impactful results.
+- 🎩 I possess the versatility to assume various roles as a T-shaped engineer.
+- 💬 Feel free to inquire about my expertise in Test Engineering, Test Automation, Test Framework Development, Test Case, Test Data Enumeration, and Problem Solving.
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: loves to watch movies , Trying to get a good sleep :wink:  
 
 
 ### Technologies & Tools
 
-✔ Front-End-Automation(UI)  - Selenium Webdriver<br>
-✔ Back-End-Automation(API)  - WebServices Automation with Postman/SOAP UI, RestAssured.<br>
-✔ Programming Languages     - Java.<br>
-✔ Dev-OPS-Automation        - Jenkins, Azure Pipelines<br>
-✔ Unit test tools           - Junit, TestNG.<br>
-✔ Project Management        - Azure DevOps, Rally<br>
+✔ Front-End-Automation(UI)  - Selenium Webdriver, Appium, Playwright<br>
+✔ Back-End-Automation(API)  - WebServices Automation with Postman/SOAP UI, RestAssured, Jmeter.<br>
+✔ Programming Languages     - Java, Javascript<br>
+✔ Dev-OPS-Automation        - Jenkins, Azure DevOps, GitHub Actions<br>
+✔ Test Framework            - TestNG, Jnit.<br>
+✔ BDD                       - Cucumber, EasyRepro with SpecFlow.<br>
+✔ Project Management        - Azure Boards, Rally, Jira<br>
 ✔ Source Control            - GIT.<br>
 ✔ Manual Testing            - Exploratory Testing, Integration testing, Test Case and Test Data Enumeration.<br>
+✔ Domain                    - Banking, Insurance, E-Commerce, Enterprise Content Management (ECM), Customer Relationship Management (CRM)<br>
 ✔ Development Process       - Agile Scrum Framework and Kanban<br>
-✔ Others                    - Basic SQL commands, Design Patterns, Agile Methodology, .<br>
+✔ Others                    - SQL, Design Patterns, Agile Methodology, .<br>
 
 
 ### Reach me at,<a href="https://www.linkedin.com/in/nagarjunask" rel="nofollow noreferrer">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> &nbsp;
