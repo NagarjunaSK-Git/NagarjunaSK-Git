@@ -27,7 +27,7 @@
 ✔ Project Management        - Azure Boards, Rally, Jira<br>
 ✔ Source Control            - GIT.<br>
 ✔ Manual Testing            - Exploratory Testing, Integration testing, Test Case and Test Data Enumeration.<br>
-✔ Domain                    - Banking, Insurance, E-Commerce, Enterprise Content Management (ECM), Customer Relationship Management (CRM)<br>
+✔ Domain                    - Banking, Insurance, E-Commerce, Enterprise Content Management (ECM), Customer Relationship Management (CRM), Regulatory Reporting<br>
 ✔ Development Process       - Agile Scrum Framework and Kanban<br>
 ✔ Others                    - SQL, Design Patterns, Agile Methodology, .<br>
 
