@@ -1,7 +1,7 @@
 
 ### Hello Folks 👋, Welcome! I am Nagarjuna SK. Take a tour of my GitHub Profile.
-### Test Automation Lead | Consistent Learner | Problem Solver | ECM Developer | Family Man 😊
-### 8 years of experience (Quality Assurance) in Software industry predominantly working on delivering Test Automation solutions relevant to Frontend and Backend systems. Ability to Manage the Automation projects from various phases such as Planning, Designing, Maintenance and Migration.
+### Test Automation Lead | QA Manager | AxiomSL ControllerView CV10/CV11 Consultant | Microsoft Dynamics 365 CRM Consultant | ECM | Family Man 😊
+### 10 years of experience (Quality Engineering) in Software industry predominantly working on delivering Test Automation solutions relevant to Frontend and Backend systems. Ability to Manage the QA projects from various phases such as Planning, Designing, Maintenance and Migration. Have experience on QA Delivery Management, Business and People management.
 
 <b>Test Automation Lead looking for new opportunities (Chennai / Remote).</b>
 
@@ -21,7 +21,7 @@
 ✔ Front-End-Automation(UI)  - Selenium Webdriver, Appium, Playwright<br>
 ✔ Back-End-Automation(API)  - WebServices Automation with Postman/SOAP UI, RestAssured, Jmeter.<br>
 ✔ Programming Languages     - Java, Javascript<br>
-✔ Dev-OPS-Automation        - Jenkins, Azure DevOps, GitHub Actions<br>
+✔ Dev-OPS-Automation        - Jenkins, Azure DevOps, GitHub Actions, Docker, K8s <br>
 ✔ Test Framework            - TestNG, Jnit.<br>
 ✔ BDD                       - Cucumber, EasyRepro with SpecFlow.<br>
 ✔ Project Management        - Azure Boards, Rally, Jira<br>
